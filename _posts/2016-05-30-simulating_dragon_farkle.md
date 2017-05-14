@@ -7,6 +7,9 @@ description: >
   game of Dragon Farkle!
 image: /files/dragon_farkle/st_george_and_the_dragon.jpg
 redirect_from: /2016/05/30/dragon_farkle/
+tags:
+  - analysis
+  - games
 ---
 
 {% capture file_dir %}{{ site.url }}/files/dragon_farkle{% endcapture %}

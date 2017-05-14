@@ -7,6 +7,9 @@ description: >
   individually.
 image: /files/2016_primary_prediction/black_board_02.jpg
 redirect_from: /2016/05/14/re_double_checking_538/
+tags:
+  - analysis
+  - politics
 ---
 
 {% capture file_dir %}{{ site.url }}/files/2016_primary_prediction{% endcapture %}

@@ -6,6 +6,10 @@ description: >
   answered this question with my Insight Data Science project!
 image: /files/whereto_photo/WhereTo.Photo.png
 redirect_from: /2016/09/22/whereto_photo/
+tags:
+  - analysis
+  - insight data science
+  - project
 ---
 
 {% capture file_dir %}{{ site.url }}/files/whereto_photo{% endcapture %}

@@ -7,6 +7,9 @@ description: >
   to the outcomes of the 2016 primaries.
 image: /files/2016_primary_prediction/black_board_01.jpg
 redirect_from: /2016/04/28/double_checking_538/
+tags:
+  - analysis
+  - politics
 ---
 
 {% capture file_dir %}{{ site.url }}/files/2016_primary_prediction{% endcapture %}

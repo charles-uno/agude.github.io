@@ -7,6 +7,10 @@ description: >
   SQLite for easy querying!
 image: /files/switrs_to_sqlite/chp.jpg
 redirect_from: /2016/11/01/switrs_to_sqlite/
+tags:
+  - SWITRS
+  - project
+  - software
 ---
 
 {% capture file_dir %}{{ site.url }}/files/switrs_to_sqlite{% endcapture %}

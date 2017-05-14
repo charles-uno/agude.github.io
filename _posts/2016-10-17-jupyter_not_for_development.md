@@ -6,6 +6,10 @@ description: >
   one of them.
 image: /files/jupyter_dev/red_spot.jpg
 redirect_from: /2016/10/17/jupyter_dev/
+tags:
+  - data science
+  - development
+  - jupyter
 ---
 
 {% capture file_dir %}{{ site.url }}/files/jupyter_dev{% endcapture %}
